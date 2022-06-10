@@ -20,6 +20,12 @@ The DB will require all dev and other dependencies to operate correctly. They wi
 
 From your preferred terminal, navigate to the the project's root directory on your local drive. 
 
+you can install mySQL from the following link:
+>[mySQL](https://dev.mysql.com/downloads/shell/)
+
+
+Fill out the necessary information in .envEXAMPLE file, and delete the EXAMPLE out of the file name (so it is just .env)
+
 Type the following in to your terminal
 >npm i
 
